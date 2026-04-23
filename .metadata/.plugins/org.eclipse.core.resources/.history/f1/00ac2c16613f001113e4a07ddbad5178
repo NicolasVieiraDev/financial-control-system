@@ -1,0 +1,5 @@
+package br.com.nicolasvieira.financialcontrol.model;
+
+public enum ExpenseCategory {
+
+}

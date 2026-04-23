@@ -1,9 +1,5 @@
 package br.com.nicolasvieira.financialcontrol.model;
 
 public enum Category {
-	TRANSPORT,
-	UNIVERSITY,
-	FOOD,
-	LEISURE,
-	OTHERS
+
 }
